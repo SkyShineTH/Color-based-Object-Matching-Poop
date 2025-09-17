@@ -20,3 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+.ipynb_checkpoints/
+image_crop/
+__MACOSX/
+crocodile.JPG
